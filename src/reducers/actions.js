@@ -1,0 +1,13 @@
+const ADD = "ADD";
+const SUBTRACT = "SUBTRACT";
+const MULTIPLY = "MULTIPLY";
+const DIVIDE = "DIVIDE";
+const ROOT = "ROOT";
+const POWER = "POWER";
+const POWER_N = "POWER_N";
+const SET_NUM1 = "SET_NUM1";
+const SET_NUM2 = "SET_NUM2";
+const SET_ACTION = "SET_ACTION";
+const CLEAR = "CLEAR";
+
+export { ADD, SUBTRACT, MULTIPLY, DIVIDE, SET_NUM1, SET_NUM2, SET_ACTION, CLEAR, POWER, ROOT, POWER_N };
